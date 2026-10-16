@@ -8,13 +8,19 @@ This project is a browser-based CPU scheduling simulator. It models jobs, proces
 
 ![CPU Scheduling Simulator sign-in page](screenshots/login.png)
 
+### Workspace
+
+![CPU Scheduling Simulator workspace](screenshots/workspace.png)
+
+### Profiles
+
+![CPU Scheduling Simulator process queue in demo mode](screenshots/profiles.png)
+
+
 ### Simulator demo
 
 ![CPU Scheduling Simulator process queue in demo mode](screenshots/simulator.png)
 
-### Workspace
-
-![CPU Scheduling Simulator workspace](screenshots/workspace.png)
 
 ### Job scheduler
 
